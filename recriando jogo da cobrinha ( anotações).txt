@@ -1,0 +1,5 @@
+Recriando jogo da cobrinha
+(novas tags em HTML e novas habilidades em JS)
+
+<canvas></canvas> abre parte grafica do jogo em html
+defer = atributo para por dentro da tag script em html faz o javascript ser carregado por ultimo
