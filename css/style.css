@@ -1,0 +1,42 @@
+/* reset */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: arial;
+}
+
+.jogo{
+	background-color: lightgray;
+}
+
+.conteiner {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+#snake {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.titulo {
+	color: white;
+	text-align: center;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	background-color: black;
+}
+
+.rodape{
+	color: white;
+	background-color: black;
+	padding-top: 43px;
+	padding-bottom: 45px;
+	border: 1px solid black;
+}
